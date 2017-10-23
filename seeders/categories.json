@@ -1,0 +1,9 @@
+{
+  "categories": [
+    { "title": "Legal" },
+    { "title": "Sales" },
+    { "title": "Support" },
+    { "title": "Marketing" },
+    { "title": "Engineering" }
+  ]
+}
