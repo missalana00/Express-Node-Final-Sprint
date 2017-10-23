@@ -1,11 +1,13 @@
 {
   "development": {
-    "database": "YOUR DB NAME",
+    "username": "postgres",
+    "password": "missalana",
+    "database": "ecommerce",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
-    "username": "root",
+    "username": "postgres",
     "password": null,
     "database": "database_test",
     "host": "127.0.0.1",

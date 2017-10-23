@@ -1,0 +1,504 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Namfix",
+      "description": "Other injuries of lung, unspecified, sequela",
+      "type": "Toys",
+      "category": "Engineering",
+      "quantity": 53,
+      "price": "$6.00",
+      "date_registered": "5/19/2017"
+    },
+    {
+      "id": 2,
+      "title": "Tresom",
+      "description": "Unsp inj extn musc/fasc/tend unsp finger at forarm lv, init",
+      "type": "Beauty",
+      "category": "Human Resources",
+      "quantity": 23,
+      "price": "$5.62",
+      "date_registered": "3/4/2017"
+    },
+    {
+      "id": 3,
+      "title": "Tres-Zap",
+      "description": "Ulceration of vulva in diseases classified elsewhere",
+      "type": "Computers",
+      "category": "Training",
+      "quantity": 34,
+      "price": "$2.71",
+      "date_registered": "9/20/2017"
+    },
+    {
+      "id": 4,
+      "title": "Tempsoft",
+      "description": "Maternal care for Anti-A sensitization, first tri, unsp",
+      "type": "Electronics",
+      "category": "Product Management",
+      "quantity": 52,
+      "price": "$0.46",
+      "date_registered": "11/5/2016"
+    },
+    {
+      "id": 5,
+      "title": "Mat Lam Tam",
+      "description": "Undescended testicle, unspecified",
+      "type": "Sports",
+      "category": "Engineering",
+      "quantity": 14,
+      "price": "$2.86",
+      "date_registered": "1/25/2017"
+    },
+    {
+      "id": 6,
+      "title": "Home Ing",
+      "description": "Thrombosis due to vascular prosth dev/grft, subs",
+      "type": "Kids",
+      "category": "Marketing",
+      "quantity": 43,
+      "price": "$2.17",
+      "date_registered": "10/25/2016"
+    },
+    {
+      "id": 7,
+      "title": "It",
+      "description": "Hit by falling object due to accident to water-skis, sequela",
+      "type": "Toys",
+      "category": "Human Resources",
+      "quantity": 66,
+      "price": "$5.48",
+      "date_registered": "8/14/2017"
+    },
+    {
+      "id": 8,
+      "title": "Tampflex",
+      "description": "Corros unsp deg mult left fngr (nail), not inc thumb, subs",
+      "type": "Kids",
+      "category": "Research and Development",
+      "quantity": 20,
+      "price": "$3.09",
+      "date_registered": "8/4/2017"
+    },
+    {
+      "id": 9,
+      "title": "Fintone",
+      "description": "Peripheral pterygium, stationary, bilateral",
+      "type": "Toys",
+      "category": "Engineering",
+      "quantity": 65,
+      "price": "$1.87",
+      "date_registered": "6/14/2017"
+    },
+    {
+      "id": 10,
+      "title": "Redhold",
+      "description": "Type 2 diab with mild nonp rtnop without mclr edema, r eye",
+      "type": "Jewelery",
+      "category": "Research and Development",
+      "quantity": 24,
+      "price": "$2.90",
+      "date_registered": "5/3/2017"
+    },
+    {
+      "id": 11,
+      "title": "Fix San",
+      "description": "Sexual abuse complicating pregnancy, second trimester",
+      "type": "Computers",
+      "category": "Human Resources",
+      "quantity": 79,
+      "price": "$8.09",
+      "date_registered": "4/27/2017"
+    },
+    {
+      "id": 12,
+      "title": "Bamity",
+      "description": "Other fracture of fifth metacarpal bone, left hand, sequela",
+      "type": "Outdoors",
+      "category": "Legal",
+      "quantity": 6,
+      "price": "$5.14",
+      "date_registered": "12/4/2016"
+    },
+    {
+      "id": 13,
+      "title": "Solarbreeze",
+      "description": "Nondisp avulsion fx right ischium, subs for fx w nonunion",
+      "type": "Beauty",
+      "category": "Accounting",
+      "quantity": 17,
+      "price": "$1.62",
+      "date_registered": "12/29/2016"
+    },
+    {
+      "id": 14,
+      "title": "Keylex",
+      "description": "Minor contusion of unspecified kidney, initial encounter",
+      "type": "Music",
+      "category": "Training",
+      "quantity": 86,
+      "price": "$3.79",
+      "date_registered": "10/8/2017"
+    },
+    {
+      "id": 15,
+      "title": "Konklab",
+      "description": "External constrict of part of breast, left breast, sequela",
+      "type": "Industrial",
+      "category": "Marketing",
+      "quantity": 31,
+      "price": "$7.10",
+      "date_registered": "11/17/2016"
+    },
+    {
+      "id": 16,
+      "title": "Pannier",
+      "description": "Lac w fb of unsp lesser toe(s) w/o damage to nail, sequela",
+      "type": "Jewelery",
+      "category": "Services",
+      "quantity": 50,
+      "price": "$0.55",
+      "date_registered": "12/3/2016"
+    },
+    {
+      "id": 17,
+      "title": "Transcof",
+      "description": "Poisoning by propionic acid derivatives, self-harm, sequela",
+      "type": "Games",
+      "category": "Legal",
+      "quantity": 82,
+      "price": "$7.74",
+      "date_registered": "5/4/2017"
+    },
+    {
+      "id": 18,
+      "title": "Overhold",
+      "description": "Unspecified injury of femoral artery, right leg, sequela",
+      "type": "Movies",
+      "category": "Services",
+      "quantity": 79,
+      "price": "$3.19",
+      "date_registered": "5/29/2017"
+    },
+    {
+      "id": 19,
+      "title": "Sonair",
+      "description": "Unspecified open-angle glaucoma",
+      "type": "Automotive",
+      "category": "Training",
+      "quantity": 2,
+      "price": "$5.91",
+      "date_registered": "11/20/2016"
+    },
+    {
+      "id": 20,
+      "title": "Cookley",
+      "description": "Papyraceous fetus, unsp trimester, not applicable or unsp",
+      "type": "Baby",
+      "category": "Business Development",
+      "quantity": 10,
+      "price": "$2.03",
+      "date_registered": "6/6/2017"
+    },
+    {
+      "id": 21,
+      "title": "Biodex",
+      "description": "Person outsd pk-up/van inj in clsn w nonmtr vehicle nontraf",
+      "type": "Automotive",
+      "category": "Legal",
+      "quantity": 9,
+      "price": "$7.29",
+      "date_registered": "12/16/2016"
+    },
+    {
+      "id": 22,
+      "title": "Konklux",
+      "description": "Ocular hypertension, bilateral",
+      "type": "Movies",
+      "category": "Legal",
+      "quantity": 32,
+      "price": "$7.21",
+      "date_registered": "12/1/2016"
+    },
+    {
+      "id": 23,
+      "title": "Aerified",
+      "description": "Inj oth blood vessels at hip and thi lev, left leg, sequela",
+      "type": "Games",
+      "category": "Accounting",
+      "quantity": 15,
+      "price": "$4.50",
+      "date_registered": "3/7/2017"
+    },
+    {
+      "id": 24,
+      "title": "Transcof",
+      "description": "Mech compl of implnt elec nstim of spinal cord lead, init",
+      "type": "Movies",
+      "category": "Support",
+      "quantity": 62,
+      "price": "$5.38",
+      "date_registered": "10/18/2017"
+    },
+    {
+      "id": 25,
+      "title": "Zathin",
+      "description": "Gout due to renal impairment, vertebrae",
+      "type": "Outdoors",
+      "category": "Legal",
+      "quantity": 86,
+      "price": "$6.32",
+      "date_registered": "12/22/2016"
+    },
+    {
+      "id": 26,
+      "title": "Gembucket",
+      "description": "Unsp injury of intrinsic musc/fasc/tend thmb at wrs/hnd lv",
+      "type": "Music",
+      "category": "Sales",
+      "quantity": 65,
+      "price": "$3.65",
+      "date_registered": "4/27/2017"
+    },
+    {
+      "id": 27,
+      "title": "Alphazap",
+      "description": "Leukemia, unspecified, in relapse",
+      "type": "Automotive",
+      "category": "Engineering",
+      "quantity": 49,
+      "price": "$7.64",
+      "date_registered": "11/20/2016"
+    },
+    {
+      "id": 28,
+      "title": "Toughjoyfax",
+      "description": "Unspecified fracture of upper end of right ulna",
+      "type": "Computers",
+      "category": "Business Development",
+      "quantity": 22,
+      "price": "$2.02",
+      "date_registered": "2/9/2017"
+    },
+    {
+      "id": 29,
+      "title": "Ventosanzap",
+      "description": "Burn unsp deg of shldr/up lmb, ex wrs/hnd, unsp site, init",
+      "type": "Home",
+      "category": "Human Resources",
+      "quantity": 77,
+      "price": "$9.71",
+      "date_registered": "11/17/2016"
+    },
+    {
+      "id": 30,
+      "title": "Andalax",
+      "description": "Breakdown (mechanical) of cystostomy catheter, init encntr",
+      "type": "Garden",
+      "category": "Accounting",
+      "quantity": 14,
+      "price": "$9.56",
+      "date_registered": "12/10/2016"
+    },
+    {
+      "id": 31,
+      "title": "Konklab",
+      "description": "Toxic effect of mercury and its compnd, self-harm, sequela",
+      "type": "Garden",
+      "category": "Support",
+      "quantity": 82,
+      "price": "$5.34",
+      "date_registered": "5/17/2017"
+    },
+    {
+      "id": 32,
+      "title": "Home Ing",
+      "description": "Oth injury of posterior tibial artery, left leg, sequela",
+      "type": "Computers",
+      "category": "Product Management",
+      "quantity": 19,
+      "price": "$0.97",
+      "date_registered": "10/15/2017"
+    },
+    {
+      "id": 33,
+      "title": "Viva",
+      "description": "Corrosion of first degree of right thumb (nail), init encntr",
+      "type": "Toys",
+      "category": "Human Resources",
+      "quantity": 71,
+      "price": "$9.19",
+      "date_registered": "11/12/2016"
+    },
+    {
+      "id": 34,
+      "title": "Sonair",
+      "description": "Drug/chem diab w severe nonprlf diab rtnop w/o macular edema",
+      "type": "Jewelery",
+      "category": "Services",
+      "quantity": 59,
+      "price": "$8.89",
+      "date_registered": "5/30/2017"
+    },
+    {
+      "id": 35,
+      "title": "Keylex",
+      "description": "Unsp inj musc/tend peroneal grp at low leg lev,unsp leg,sqla",
+      "type": "Beauty",
+      "category": "Human Resources",
+      "quantity": 4,
+      "price": "$7.74",
+      "date_registered": "8/11/2017"
+    },
+    {
+      "id": 36,
+      "title": "Y-Solowarm",
+      "description": "External constriction of right forearm, subsequent encounter",
+      "type": "Health",
+      "category": "Sales",
+      "quantity": 15,
+      "price": "$5.72",
+      "date_registered": "1/19/2017"
+    },
+    {
+      "id": 37,
+      "title": "Aerified",
+      "description": "Contus/lac cereb, w LOC >24 hr w ret consc lev, init",
+      "type": "Health",
+      "category": "Training",
+      "quantity": 48,
+      "price": "$1.29",
+      "date_registered": "3/1/2017"
+    },
+    {
+      "id": 38,
+      "title": "Lotlux",
+      "description": "Partial traumatic MCP amputation of finger, sequela",
+      "type": "Computers",
+      "category": "Support",
+      "quantity": 8,
+      "price": "$6.47",
+      "date_registered": "2/21/2017"
+    },
+    {
+      "id": 39,
+      "title": "Treeflex",
+      "description": "Nondisp transverse fx shaft of unsp fibula, 7thR",
+      "type": "Shoes",
+      "category": "Engineering",
+      "quantity": 13,
+      "price": "$3.99",
+      "date_registered": "8/2/2017"
+    },
+    {
+      "id": 40,
+      "title": "Daltfresh",
+      "description": "Loose body in wrist",
+      "type": "Clothing",
+      "category": "Engineering",
+      "quantity": 4,
+      "price": "$9.91",
+      "date_registered": "12/9/2016"
+    },
+    {
+      "id": 41,
+      "title": "Tempsoft",
+      "description": "Oth intraop and postproc comp and disord of circ sys, NEC",
+      "type": "Industrial",
+      "category": "Support",
+      "quantity": 93,
+      "price": "$6.11",
+      "date_registered": "12/19/2016"
+    },
+    {
+      "id": 42,
+      "title": "Trippledex",
+      "description": "Rheumatic aortic stenosis with insufficiency",
+      "type": "Baby",
+      "category": "Sales",
+      "quantity": 32,
+      "price": "$6.58",
+      "date_registered": "7/17/2017"
+    },
+    {
+      "id": 43,
+      "title": "Zontrax",
+      "description": "Burn of other parts of respiratory tract, initial encounter",
+      "type": "Outdoors",
+      "category": "Legal",
+      "quantity": 95,
+      "price": "$0.70",
+      "date_registered": "7/18/2017"
+    },
+    {
+      "id": 44,
+      "title": "Toughjoyfax",
+      "description": "Fall into natural body of water strk side cause drown, subs",
+      "type": "Toys",
+      "category": "Legal",
+      "quantity": 4,
+      "price": "$6.61",
+      "date_registered": "7/25/2017"
+    },
+    {
+      "id": 45,
+      "title": "Konklab",
+      "description": "Occ of rail trn/veh injured due to oth railway acc, subs",
+      "type": "Computers",
+      "category": "Product Management",
+      "quantity": 88,
+      "price": "$9.69",
+      "date_registered": "7/11/2017"
+    },
+    {
+      "id": 46,
+      "title": "Stronghold",
+      "description": "Pathological fracture, right femur, subs for fx w routn heal",
+      "type": "Beauty",
+      "category": "Marketing",
+      "quantity": 20,
+      "price": "$9.71",
+      "date_registered": "10/21/2017"
+    },
+    {
+      "id": 47,
+      "title": "Opela",
+      "description": "Other secondary osteonecrosis, left femur",
+      "type": "Baby",
+      "category": "Human Resources",
+      "quantity": 87,
+      "price": "$0.62",
+      "date_registered": "10/11/2017"
+    },
+    {
+      "id": 48,
+      "title": "Span",
+      "description": "Accidental pnctr & lac of eye and adnexa during a procedure",
+      "type": "Grocery",
+      "category": "Marketing",
+      "quantity": 16,
+      "price": "$1.57",
+      "date_registered": "11/24/2016"
+    },
+    {
+      "id": 49,
+      "title": "Flowdesk",
+      "description": "Chronic tubotympanic suppurative otitis media",
+      "type": "Industrial",
+      "category": "Accounting",
+      "quantity": 70,
+      "price": "$0.65",
+      "date_registered": "12/24/2016"
+    },
+    {
+      "id": 50,
+      "title": "Stronghold",
+      "description": "Lymphoblastic (diffuse) lymphoma, spleen",
+      "type": "Books",
+      "category": "Human Resources",
+      "quantity": 90,
+      "price": "$8.95",
+      "date_registered": "6/27/2017"
+    }
+  ]
+}
