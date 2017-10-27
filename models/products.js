@@ -5,8 +5,7 @@ module.exports = (sequelize, DataTypes) => {
     {
       title: DataTypes.STRING,
       description: DataTypes.STRING,
-      type: DataTypes.STRING,
-      category: DataTypes.STRING,
+      categoryID: DataTypes.INTEGER,
       quantity: DataTypes.INTEGER,
       price: DataTypes.STRING,
       date_registered: DataTypes.DATE
@@ -15,14 +14,8 @@ module.exports = (sequelize, DataTypes) => {
   );
 
   Products.associate = models => {
-    User.belongsTo(models.Categories, {
-      foreignKey: 'id'
-    });
-  };
-
-  Products.associate = models => {
-    User.belongsTo(models.Types, {
-      foreignKey: 'id'
+    Products.belongsTo(models.Categories, {
+      foreignKey: 'categoryID'
     });
   };
 

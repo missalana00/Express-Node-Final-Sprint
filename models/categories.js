@@ -8,15 +8,10 @@ module.exports = (sequelize, DataTypes) => {
     { timestamps: false }
   );
 
+  // Since categories has many, the "many" will have the foreign key on it
   Categories.associate = models => {
-    User.hasMany(models.Types, {
-      foreignKey: 'id'
-    });
-  };
-
-  Categories.associate = models => {
-    User.hasMany(models.Products, {
-      foreignKey: 'id'
+    Categories.hasMany(models.Products, {
+      foreignKey: 'categoryID'
     });
   };
 

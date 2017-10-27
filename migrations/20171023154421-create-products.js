@@ -14,11 +14,8 @@ module.exports = {
       description: {
         type: Sequelize.STRING
       },
-      type: {
-        type: Sequelize.STRING
-      },
-      category: {
-        type: Sequelize.STRING
+      categoryID: {
+        type: Sequelize.INTEGER
       },
       quantity: {
         type: Sequelize.INTEGER
